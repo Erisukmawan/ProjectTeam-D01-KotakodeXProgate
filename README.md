@@ -6,6 +6,9 @@ Fiqi Nurfaizan,
 Adam Kandias,
 Hafiz Siregar
 
+Judul : Web Profile
+Deskripsi : web ini dibangun untuk melaksanakan project team yang diselenggarakan oleh Kotakode X Progate, web ini berisi deskripsi dan informasi dari anggota kelompok D01
+
 Link website :
 https://project-team-d01.000webhostapp.com/
 
