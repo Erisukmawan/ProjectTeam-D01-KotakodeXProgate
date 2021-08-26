@@ -1,9 +1,9 @@
 # ProjectTeam-D01-KotakodeXProgate
 Nama - nama anggota =
-Eri Sukmawan
-Azka Rabbani Munanda
-Fiqi Nurfaizan
-Adam Kandias
+Eri Sukmawan,
+Azka Rabbani Munanda,
+Fiqi Nurfaizan,
+Adam Kandias,
 Hafiz Siregar
 
 Pembagian tugas :
