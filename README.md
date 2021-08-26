@@ -6,6 +6,9 @@ Fiqi Nurfaizan,
 Adam Kandias,
 Hafiz Siregar
 
+Link website :
+https://project-team-d01.000webhostapp.com/
+
 Pembagian tugas :
 1. Header : Azka Rabbani Minanda
 2. Cover & informasi : Fiqi Nurfaizan
